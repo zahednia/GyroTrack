@@ -279,4 +279,4 @@ GyroTrack is still very useful as a demo / educational tool.
 
 ## License
 
-[(MIT)](https://github.com/zahednia/Physics-Calculation-Telegram-Bot/blob/main/LICENSE)
+[[(MIT LICENSE)](https://github.com/zahednia/GyroTrack/blob/main/LICENSE)]
